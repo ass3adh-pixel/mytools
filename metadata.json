@@ -1,0 +1,8 @@
+{
+  "name": "أدوات يومية عربية (Arabic Tools Hub)",
+  "description": "منصة شاملة للأدوات الرقمية اليومية والذكاء الاصطناعي للمستخدم العربي. PDF، صور، OCR، حسابات مالية، والمزيد.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
